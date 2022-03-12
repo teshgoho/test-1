@@ -1,1 +1,10 @@
-foohi3bar
+function foohi3bar() {
+	va a = "foo"
+	console.log(a)
+	return "bar"
+}
+
+function two() {
+	var bar = "hey"
+	return "she"
+}
